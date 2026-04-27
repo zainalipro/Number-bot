@@ -1,0 +1,102 @@
+{
+  "sites": [
+    {
+      "name": "Facebook",
+      "signup_url": "https://www.facebook.com/r.php",
+      "signin_url": "https://www.facebook.com/login/",
+      "field_count": 4,
+      "notes": ""
+    },
+    {
+      "name": "Instagram",
+      "signup_url": "https://www.instagram.com/accounts/emailsignup/",
+      "signin_url": "https://www.instagram.com/accounts/login/",
+      "field_count": 4,
+      "notes": ""
+    },
+    {
+      "name": "Microsoft",
+      "signup_url": "https://signup.live.com/signup",
+      "signin_url": "https://login.live.com/",
+      "field_count": 1,
+      "notes": ""
+    },
+    {
+      "name": "Apple",
+      "signup_url": "https://appleid.apple.com/account",
+      "signin_url": "https://appleid.apple.com/sign-in",
+      "field_count": 1,
+      "notes": ""
+    },
+    {
+      "name": "Amazon",
+      "signup_url": "https://www.amazon.com/ap/register",
+      "signin_url": "https://www.amazon.com/ap/signin",
+      "field_count": 1,
+      "notes": ""
+    },
+    {
+      "name": "TikTok",
+      "signup_url": "https://www.tiktok.com/signup/phone-or-email/phone",
+      "signin_url": "https://www.tiktok.com/login/phone-or-email/phone",
+      "field_count": 1,
+      "notes": ""
+    },
+    {
+      "name": "Snapchat",
+      "signup_url": "https://accounts.snapchat.com/accounts/signup",
+      "signin_url": "https://accounts.snapchat.com/accounts/login",
+      "field_count": 7,
+      "notes": ""
+    },
+    {
+      "name": "Booking",
+      "signup_url": "https://account.booking.com/register",
+      "signin_url": "https://account.booking.com/sign-in",
+      "field_count": 1,
+      "notes": ""
+    },
+    {
+      "name": "LINE",
+      "signup_url": "https://account.line.biz/signup",
+      "signin_url": "https://account.line.biz/login",
+      "field_count": 1,
+      "notes": ""
+    },
+    {
+      "name": "Viber",
+      "signup_url": "https://www.viber.com/",
+      "signin_url": "https://www.viber.com/",
+      "field_count": 1,
+      "notes": "App-based"
+    },
+    {
+      "name": "Samsung",
+      "signup_url": "https://account.samsung.com/membership/intro",
+      "signin_url": "https://account.samsung.com/",
+      "field_count": 1,
+      "notes": ""
+    },
+    {
+      "name": "Huawei",
+      "signup_url": "https://id.huawei.com/CAS/portal/userRegister/regbyphone.html",
+      "signin_url": "https://id.huawei.com/",
+      "field_count": 1,
+      "notes": ""
+    },
+    {
+      "name": "Tinder",
+      "signup_url": "https://tinder.com/",
+      "signin_url": "https://tinder.com/",
+      "field_count": 1,
+      "notes": ""
+    },
+    {
+      "name": "OK.ru",
+      "signup_url": "https://ok.ru/dk?st.cmd=anonymRegistrationEnterPhone",
+      "signin_url": "https://ok.ru/",
+      "field_count": 1,
+      "notes": ""
+    }
+  ]
+}
